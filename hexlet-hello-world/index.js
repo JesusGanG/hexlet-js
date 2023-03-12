@@ -1,4 +1,4 @@
-import _ from 'lodash';
-
-console.log('Hello, Hexlet!');
-console.log(_.last(['one', 'two']));
+// eslint-disable-next-line no-console
+import _ from "lodash";
+console.log("Hello, Hexlet!");
+console.log(_.last(["one", 'two']));
